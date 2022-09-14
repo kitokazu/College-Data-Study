@@ -1,5 +1,5 @@
 # College Salary Potential Study
-## CPSC 392 FINAL git a
+## CPSC 392 FINAL
 Using college data (salary, diversity, salary potential) we answered the following questions:
 * Is there a correlation between the average percentage of students in STEM, and early career pay or mid career pay?
 * Does the number of students enrolled, race, and overall tuition vary depending on the type of school they attend (public, private). (find continuous variable and cluster and describe them)
