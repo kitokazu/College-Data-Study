@@ -1,7 +1,7 @@
 # College Salary Potential Study
 ## CPSC 392 FINAL
 
-## SEE PDF REPORT FOR ANALYSIS
+SEE PDF REPORT FOR ANALYSIS
 
 Using college data (salary, diversity, salary potential) we answered the following questions:
 * Is there a correlation between the average percentage of students in STEM, and early career pay or mid career pay?
